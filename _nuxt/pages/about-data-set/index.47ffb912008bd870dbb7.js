@@ -1,0 +1,1 @@
+webpackJsonp([5],{g9b5:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=a("wgV8"),n=a("VU/8")(u.a,null,!1,null,null,null);n.options.__file="pages/about-data-set/index.vue",t.default=n.exports},wgV8:function(e,t,a){"use strict";t.a={fetch:function(e){e.params;(0,e.redirect)(307,"/about-data-set/0.1")}}}});
